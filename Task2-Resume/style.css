@@ -1,0 +1,23 @@
+.name {
+    font-size: 35px;
+    display: flex; 
+}
+.bio {
+    font-size: 20px;
+}
+.Sidebar {
+    background-color: rgb(129, 218, 218);
+    width: 30vw;
+    height: 100vh;
+}
+.Sidebar nav {
+    padding: 95px;
+}
+.main {
+    background-color: rgb(217, 224, 230);
+    width: 70vw;
+    height: 100vh;
+}
+.container {
+    display: flex;
+}
